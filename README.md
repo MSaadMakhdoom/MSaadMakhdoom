@@ -68,9 +68,6 @@ I am a Data Scientist with technical and quantitative skills. Passionate about A
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MSaadMakhdoom&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 
