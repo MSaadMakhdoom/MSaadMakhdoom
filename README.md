@@ -37,7 +37,7 @@ I am a Data Scientist with technical and quantitative skills. Passionate about A
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="AWS logo" title="AWS" />
 </div>
 
-
+---
 <h2 align="left">Frameworks and libraries</h2>
 
 <div align="left">
