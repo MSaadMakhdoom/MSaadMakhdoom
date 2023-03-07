@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MSaadMakhdoom</h1>
 
 # About Me:
-I am a Data Scientist with technical and quantitative skills. Passionate about AI and Business Development with focus channel sales, to build and transform the business to success.<br>I have experience including Python, SQL, machine and deep learning, database development, data analysis, data warehouse development, data visualization and Web application development. I am interested in artificial intelligence and business development and seek challenging data science projects to create data-driven solutions. As a data scientist, I am passionate about solving business challenges with data.
+I am a Data Scientist with technical and quantitative skills. Passionate about AI and Business Development with real-time data, to build and transform the business to success.<br>I have experience including Python, SQL, machine and deep learning, database development, data analysis, data warehouse development, data visualization and Web application development. I am interested in artificial intelligence and business development and seek challenging data science projects to create data-driven solutions. As a data scientist, I am passionate about solving business challenges with data.
 
 ## 
 
