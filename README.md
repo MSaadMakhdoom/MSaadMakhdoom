@@ -11,6 +11,13 @@ As a data scientist, I am passionate about solving business challenges with data
 ## 
 
 <h3 align="left">Social</h3>
+## 🌐 Connect with Me:
+
+Feel free to reach out to me and discuss data, technology, and more. Let's connect!
+<p>
+<a href="https://twitter.com/@msaadmakhdoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@msaadmakhdoom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-saad-a94605217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-a94605217" height="30" width="40" /></a>
+</p>
 <p align="left">
 <a href="https://twitter.com/@msaadmakhdoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@msaadmakhdoom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-saad-a94605217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-a94605217" height="30" width="40" /></a>
