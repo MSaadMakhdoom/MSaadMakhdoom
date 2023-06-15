@@ -41,7 +41,19 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" title="CSS" />
 </div>
 
+---
+<h2 align="left">AI Frameworks and libraries</h2>
+<div align="left">
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-orange)](https://www.tensorflow.org/)
+- [![PyTorch](https://img.shields.io/badge/PyTorch-1.10-blue)](https://pytorch.org/)
+- [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-green)](https://scikit-learn.org/)
+- [![Keras](https://img.shields.io/badge/Keras-2.8-red)](https://keras.io/)
+- [![XGBoost](https://img.shields.io/badge/XGBoost-1.5-yellow)](https://xgboost.readthedocs.io/)
+- [![LightGBM](https://img.shields.io/badge/LightGBM-3.3-blueviolet)](https://lightgbm.readthedocs.io/)
 
+</div>
+
+---
 <h2 align="left">Tools</h2>
 
 <div align="left">
