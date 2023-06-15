@@ -25,7 +25,7 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
 
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-Expert-brightgreen)_ ![SQL](https://img.shields.io/badge/SQL-Expert-orange) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Skilled-yellow) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow) - ![MLOps](https://img.shields.io/badge/MLOps-Skilled-green)  ![Database Development](https://img.shields.io/badge/Database%20Development-Skilled-lightgrey) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen) ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Experienced-orange)  ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightgreen) ![Web Development](https://img.shields.io/badge/Web%20Development-Skilled-yellow)
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen) \t ![SQL](https://img.shields.io/badge/SQL-Expert-orange) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Skilled-yellow) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow) - ![MLOps](https://img.shields.io/badge/MLOps-Skilled-green)  ![Database Development](https://img.shields.io/badge/Database%20Development-Skilled-lightgrey) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Expert-brightgreen) ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Experienced-orange)  ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightgreen) ![Web Development](https://img.shields.io/badge/Web%20Development-Skilled-yellow)
 
 <h3 align="left">Programming Languages:</h3>
 <div align="left">
