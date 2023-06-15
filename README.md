@@ -41,12 +41,6 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" title="CSS" />
 </div>
 
----
-<h2 align="left">AI Frameworks and libraries</h2>
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-orange)](https://www.tensorflow.org/)
-
-
 
 
 ---
