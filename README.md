@@ -67,13 +67,8 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="seaborn logo" title="Seaborn" />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/plotly.svg" height="40" width="52" alt="plotly logo" title="Plotly" />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/hadoop.svg" height="40" width="52" alt="hadoop logo" title="Hadoop" />
-  
-  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="django logo" title="Django" />
-  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="40" width="52" alt="REACT logo" title="REACT" />
-  
-  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   
 </div>
