@@ -44,34 +44,8 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
 ---
 <h2 align="left">AI Frameworks and libraries</h2>
 
-![TensorFlow Logo](https://www.gstatic.com/devrel-devsite/prod/ve2843e281d2e3293bd4d6a676baf3e7e4c61f5744f9c8f028e5a95a8f0d7bebc/tensorflow/images/lockup.svg)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-orange)](https://www.tensorflow.org/)
 
-
-   ![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
-
-3. scikit-learn:
-   ![scikit-learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-
-4. Keras:
-   ![Keras Logo](https://keras.io/img/logo.png)
-
-5. XGBoost:
-   ![XGBoost Logo](https://xgboost.readthedocs.io/en/latest/_static/logo.png)
-
-6. LightGBM:
-   ![LightGBM Logo](https://lightgbm.readthedocs.io/en/latest/_static/LightGBM_logo_black_text.svg)
-
-7. Theano:
-   ![Theano Logo](https://github.com/Theano/Theano/raw/master/theano/miscellaneous/logo/128px-Theano_logo.svg.png)
-
-8. Caffe:
-   ![Caffe Logo](https://caffe.berkeleyvision.org/images/caffe_logo.png)
-
-9. MXNet:
-   ![MXNet Logo](https://mxnet.apache.org/_static/logo/mxnet_logo_2.png)
-
-10. H2O.ai:
-    ![H2O.ai Logo](https://www.h2o.ai/wp-content/uploads/2017/02/h2o-ai.png)
 
 
 
