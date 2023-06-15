@@ -2,7 +2,11 @@
 <h3 align="center">Data Scientist | MLOps | Data-Driven & Web Application Developer | AI & Business Development </h3>
 
 # About Me:
-I am a Data Scientist with technical and quantitative skills. Passionate about AI and Business Development with focus on real-time data, to build and transform the business to success.<br>I have experience including Python, SQL, machine and deep learning algorithms, database development, data analysis, data warehouse development, data visualization and Web application development. I am interested in artificial intelligence and business development and seek challenging data science projects to create data-driven solutions. As a data scientist, I am passionate about solving business challenges with data.
+I am a Data Scientist with technical and quantitative skills. I am passionate about artificial intelligence (AI) and business development, with a focus on real-time data. 
+
+I have experience in Python, SQL, machine learning and deep learning algorithms, database development, data analysis, data warehouse development, data visualization, and web application development.
+
+As a data scientist, I am passionate about solving business challenges with data. I am confident that I can use my skills and experience to help your business achieve its goals.
 
 ## 
 
