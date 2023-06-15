@@ -23,7 +23,18 @@ Feel free to reach out to me and discuss data, technology, and more. Let's conne
 <a href="https://linkedin.com/in/muhammad-saad-a94605217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-saad-a94605217" height="30" width="40" /></a>
 </p>
 
+
 ## Skills
+- ![Python](https://img.shields.io/badge/Python-Proficient-brightgreen)
+- ![SQL](https://img.shields.io/badge/SQL-Experienced-orange)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Skilled-yellow)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Skilled-yellow)
+- ![Database Development](https://img.shields.io/badge/Database%20Development-Knowledgeable-lightgrey)
+- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-brightgreen)
+- ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Experienced-orange)
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightgreen)
+- ![Web Development](https://img.shields.io/badge/Web%20Development-Skilled-yellow)
+
 <h3 align="left">Programming Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" title="Python" />
