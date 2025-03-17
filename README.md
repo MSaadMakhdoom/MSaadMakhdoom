@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MSaadMakhdoom</h1>
+<h1 align="center">Hi, I'm Muhammad Saad Makhdoom</h1>
 <h3 align="center">Data Scientist | MLOps | Data-Driven & Web Application Developer | AI & Business Development </h3>
 
 # About Me:
